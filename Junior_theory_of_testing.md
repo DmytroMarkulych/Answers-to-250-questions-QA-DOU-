@@ -70,10 +70,11 @@
 #### За ознакою позитивності сценаріїв:
 - позитивне тестування (positive testing);
 - негативне тестування (negative testing).
-##### За ступенем підготовленості до тестування:
+#### За ступенем підготовленості до тестування:
 - тестування за документацією (formal testing);
 - Ad Hoc Testing (інтуїтивне) тестування (ad hoc testing).
-[![Більше інформації](https://qagroup.com.ua/publications/vydy-testuvannya-ta-vidminnosti-mizh-nymy/)]
+#### Більше детальної інформації по видах тестування:
+https://qagroup.com.ua/publications/vydy-testuvannya-ta-vidminnosti-mizh-nymy/
 
 5.Які рівні тестування знаєте?
 6.Які техніки тест-дизайну знаєте?
