@@ -33,46 +33,46 @@
 ### 4. Які типи тестування можете назвати?
 
 #### За об’єктом тестування виділяють наступні види тестування ПЗ:
->функціональне тестування (functional testing);
->дослідницьке тестування (exploratory testing);
->тестування продуктивності (performance testing);
->навантажувальне тестування (load testing);
->димне тестування (smoke testing);
->стрес-тестування (stress testing);
->тестування стабільності (stability / endurance / soak testing);
->тестування зручності використання (usability testing);
->тестування інтерфейсу користувача (ui testing);
->тестування безпеки (security testing);
->тестування локалізації (localization testing);
->тестування сумісності (compatibility testing).
+*функціональне тестування (functional testing);
+*дослідницьке тестування (exploratory testing);
+*тестування продуктивності (performance testing);
+*навантажувальне тестування (load testing);
+*димне тестування (smoke testing);
+*стрес-тестування (stress testing);
+*тестування стабільності (stability / endurance / soak testing);
+*тестування зручності використання (usability testing);
+*тестування інтерфейсу користувача (ui testing);
+*тестування безпеки (security testing);
+*тестування локалізації (localization testing);
+*тестування сумісності (compatibility testing).
 #### У залежності від переслідуваних цілей, види тестування можна умовно розділити на наступні типи:
->функціональне тестування (functional);
->нефункціональне тестування (non-functional);
->тестування пов’язане зі змінами.
+*функціональне тестування (functional);
+*нефункціональне тестування (non-functional);
+*тестування пов’язане зі змінами.
 #### За знанням системи:
->тестування чорної скриньки (black box);
->тестування білої скриньки (white box);
->тестування сірої скриньки (gray box).
+*тестування чорної скриньки (black box);
+*тестування білої скриньки (white box);
+*тестування сірої скриньки (gray box).
 #### За ступенем автоматизації:
->ручне тестування (manual testing);
->автоматизоване тестування (automated testing);
->напівавтоматизоване тестування (semiautomated testing).
+*ручне тестування (manual testing);
+*автоматизоване тестування (automated testing);
+*напівавтоматизоване тестування (semiautomated testing).
 #### За ступенем ізольованості компонентів:
->компонентне (модульне) тестування (component / unit testing);
->інтеграційне тестування (integration testing);
->системне тестування (system / end-to-end testing).
+*компонентне (модульне) тестування (component / unit testing);
+*інтеграційне тестування (integration testing);
+*системне тестування (system / end-to-end testing).
 #### За часом проведення тестування:
->Альфа-тестування (alpha testing):
->тестування нової функціональності (new feature testing);
->регресійне тестування (regression testing);
->тестування при здачі (acceptance testing);
->Бета-тестування (beta testing).
+*Альфа-тестування (alpha testing):
+*тестування нової функціональності (new feature testing);
+*регресійне тестування (regression testing);
+*тестування при здачі (acceptance testing);
+*Бета-тестування (beta testing).
 #### За ознакою позитивності сценаріїв:
->позитивне тестування (positive testing);
->негативне тестування (negative testing).
+*позитивне тестування (positive testing);
+*негативне тестування (negative testing).
 ##### За ступенем підготовленості до тестування:
->тестування за документацією (formal testing);
->Ad Hoc Testing (інтуїтивне) тестування (ad hoc testing).
+*тестування за документацією (formal testing);
+*Ad Hoc Testing (інтуїтивне) тестування (ad hoc testing).
 https://qagroup.com.ua/publications/vydy-testuvannya-ta-vidminnosti-mizh-nymy/
 
 5.Які рівні тестування знаєте?
